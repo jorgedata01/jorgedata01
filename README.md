@@ -39,8 +39,7 @@ Análisis completo con detección de outliers usando métodos IQR, DBSCAN y LOF.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-alvarez-vasquez/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jorge.alvarez@cualycuanti.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/51922765349)
-
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/51922765349?text=Hola%20Jorge,%20vi%20tu%20perfil%20en%20GitHub)
 ---
 
 💡 *"Los datos son el nuevo petróleo, pero el análisis es la refinería"*
