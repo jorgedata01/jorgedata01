@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jorge Alvarez
 
-## 💼 Data Scientist | Analista de Datos
+## 💼 Marketing Data Scientist Manager | AI Smart Marketing
 
 Apasionado por transformar datos en insights accionables. Especializado en Marketing y Análisis Exploratorio de Datos (EDA), visualización conPower BI | Tableau, y Machine Learning.
 
