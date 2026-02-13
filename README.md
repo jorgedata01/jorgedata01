@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jorge Alvarez
+# 👋 Hola, soy Jorge Álvarez
 
 ## 💼 Marketing Data Scientist Manager | AI Smart Marketing
 
