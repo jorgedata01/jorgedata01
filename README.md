@@ -44,6 +44,17 @@ Análisis completo con detección de outliers usando métodos IQR, DBSCAN y LOF.
 - 📈 **Visualización:** Dashboards ejecutivos en Power BI y Tableau
 - 🤖 **Machine Learning:** Clasificación, Clustering, Regresión
 
+### 👨‍💻 Sobre mí
+
+🔭 Actualmente trabajando en proyectos de **AI Smart Marketing**  
+🌱 Estudiando sobre **Deep Learning** y **MLOps**  
+💬 Desarrollando **Marketing Analytics**, **Python**, **Power BI**  
+⚡ Dato curioso: Transformo café en código y datos en decisiones ☕→💻→📊
+
+### 📊 Actividad Reciente
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgedata01&theme=tokyonight)](https://git.io/streak-stats)
+
 ### 📈 GitHub Stats
 
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgedata01&show_icons=true&theme=tokyonight)
