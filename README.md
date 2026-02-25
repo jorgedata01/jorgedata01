@@ -2,7 +2,9 @@
 
 ## 💼 Marketing Data Scientist Manager | AI Smart Marketing
 
-Apasionado por transformar datos en insights accionables. Especializado en Marketing y Análisis Exploratorio de Datos (EDA), visualización con Power BI y Tableau, y forecasting con Series de Tiempo empleando Machine Learning.
+Soy Científico de Datos con un enfoque orientado a la resolución de problemas reales mediante analítica avanzada, combinando estadística, programación y visión de negocio. Mi trabajo se centra en transformar datos en conocimiento accionable que permita optimizar decisiones estratégicas, especialmente en contextos de Marketing, Research y análisis de comportamiento.
+
+Tengo experiencia en el desarrollo de modelos predictivos, análisis exploratorio de datos (EDA), segmentación de clientes, medición de impacto de campañas y construcción de métricas de desempeño (KPIs). Integro metodologías estadísticas rigurosas con herramientas tecnológicas modernas para generar soluciones escalables basadas en datos.
 
 ---
 
