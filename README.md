@@ -17,7 +17,9 @@ Apasionado por transformar datos en insights accionables. Especializado en Marke
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ---
 
 ### 📊 Proyectos Destacados
@@ -33,8 +35,13 @@ Análisis completo con detección de outliers usando métodos IQR, DBSCAN y LOF.
 
 **Tecnologías:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn  
 **Técnicas:** IQR, DBSCAN, LOF, PCA, StandardScaler
-
 ---
+
+### 🎯 Especialidades
+- 📊 **Marketing Analytics:** Segmentación, RFM, CLV, Attribution Modeling
+- 🔮 **Forecasting:** ARIMA, Prophet, LSTM para predicción de demanda
+- 📈 **Visualización:** Dashboards ejecutivos en Power BI y Tableau
+- 🤖 **Machine Learning:** Clasificación, Clustering, Regresión
 
 ### 📈 GitHub Stats
 
