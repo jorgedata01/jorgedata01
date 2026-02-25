@@ -35,6 +35,7 @@ Análisis completo con detección de outliers usando métodos IQR, DBSCAN y LOF.
 
 **Tecnologías:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn  
 **Técnicas:** IQR, DBSCAN, LOF, PCA, StandardScaler
+
 ---
 
 ### 🎯 Especialidades
