@@ -41,6 +41,8 @@ Comparación estadística robusta entre dos muestras independientes mediante pru
 **Tecnologías:** Python, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn  
 **Métodos:** Shapiro-Wilk, Levene, T-Student, T-Welch, Cohen's d
 
+---
+
 #### 🔍 [Análisis Exploratorio de Datos (EDA)](https://github.com/jorgedata01/Tarea_EDA)
 Análisis completo con detección de outliers usando métodos IQR, DBSCAN y LOF. Incluye visualizaciones interactivas, normalización de datos y análisis de correlaciones.
 
