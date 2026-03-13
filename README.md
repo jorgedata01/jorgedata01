@@ -22,11 +22,12 @@ Tengo experiencia en el desarrollo de modelos predictivos, análisis exploratori
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
 ---
 
 ### 📊 Proyectos Destacados
 
-### 📊 [PasajerosCR · Análisis de Movilidad](https://jorgedata01.github.io/jorgedata01-reporte-pasajeros-cr)
+#### 📊 [PasajerosCR · Análisis de Movilidad](https://jorgedata01.github.io/jorgedata01-reporte-pasajeros-cr)
 Visualización interactiva de llegada de extranjeros a Costa Rica según vía de ingreso, país de origen y evolución en el tiempo.
 
 **Tecnologías:** Power BI, DAX, Modelado de datos  
