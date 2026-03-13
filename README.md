@@ -26,6 +26,15 @@ Tengo experiencia en el desarrollo de modelos predictivos, análisis exploratori
 
 ### 📊 Proyectos Destacados
 
+### 📊 [PasajerosCR · Análisis de Movilidad](https://jorgedata01.github.io/jorgedata01-reporte-pasajeros-cr)
+Visualización interactiva de llegada de extranjeros a Costa Rica según vía de ingreso, país de origen y evolución en el tiempo.
+
+**Tecnologías:** Power BI, DAX, Modelado de datos  
+**Datos:** IGP · Instituto Costarricense de Turismo 2014–2023  
+**🔗 [Ver reporte interactivo](https://jorgedata01.github.io/jorgedata01-reporte-pasajeros-cr)**
+
+---
+
 #### 🔬 [Mini Proyecto: Auditoría de Sucursales Multinacional](https://github.com/jorgedata01/MiniProyecto_AuditoriaSucursalesMultinacional)
 Comparación estadística robusta entre dos muestras independientes mediante pruebas de hipótesis. Implementa análisis con Test de Shapiro-Wilk, Prueba T de Student, T de Welch y tamaño del efecto con D de Cohen sobre datos de auditoría de sucursales multinacionales.
 
