@@ -1,10 +1,15 @@
 # 👋 Hola, soy Jorge Álvarez
 
-## 💼 Marketing Data Scientist Manager | AI Smart Marketing
+## 💼 Transformo datos en decisiones rentables para empresas | Data Science, IA & Forecasting
 
-Soy Científico de Datos con un enfoque orientado a la resolución de problemas reales mediante analítica avanzada, combinando estadística, programación y visión de negocio. Mi trabajo se centra en transformar datos en conocimiento accionable que permita optimizar decisiones estratégicas, especialmente en contextos de Marketing, Research y análisis de comportamiento.
+Fundador de **Cual & Cuanti**, consultora especializada en Data Science, Forecasting e Inteligencia de Negocio aplicada al marketing y la estrategia comercial. Con más de 20 años liderando analítica de datos e investigación de mercados para marcas globales como **Coca-Cola, Nestlé, Bayer y Nissan**, hoy fusiono ese rigor estratégico con herramientas técnicas modernas — Python, Machine Learning, modelado predictivo y Power BI — para ayudar a empresas a convertir datos dispersos en ventajas competitivas medibles.
 
-Tengo experiencia en el desarrollo de modelos predictivos, análisis exploratorio de datos (EDA), segmentación de clientes, medición de impacto de campañas y construcción de métricas de desempeño (KPIs). Integro metodologías estadísticas rigurosas con herramientas tecnológicas modernas para generar soluciones escalables basadas en datos.
+### 👨‍💻 Sobre mí
+
+🔭 Actualmente construyendo soluciones de **AI Smart Marketing** para clientes de Cual & Cuanti
+🌱 Ampliando mi práctica en **Deep Learning** y **MLOps**
+💬 Especializado en **Marketing Analytics**, **Forecasting** y **Power BI**
+📍 Basado en Lima, Perú — trabajo con clientes en Perú y Latinoamérica
 
 ---
 
@@ -49,6 +54,14 @@ Análisis completo con detección de outliers usando métodos IQR, DBSCAN y LOF.
 
 **Tecnologías:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn  
 **Técnicas:** IQR, DBSCAN, LOF, PCA, StandardScaler
+
+---
+
+#### 🔬 [Clasificación de Cáncer de Mama](https://github.com/jorgedata01/proyecto-clasificacion-cancer-mama-)
+
+Modelo de clasificación aplicando técnicas de Machine Learning sobre datos clínicos para apoyo en diagnóstico predictivo.
+
+**Tecnologías:** Python, Scikit-learn, Pandas
 
 ---
 
