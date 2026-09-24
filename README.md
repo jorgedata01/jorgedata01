@@ -41,6 +41,13 @@ Visualización interactiva de llegada de extranjeros a Costa Rica según vía de
 
 ---
 
+#### 🛒 [marketplace-api](https://github.com/jorgedata01/marketplace-api)
+API de predicción de cancelación de pedidos para un marketplace, construida con FastAPI y desplegada con Docker. Incluye el pipeline de entrenamiento del modelo y el servicio de inferencia en producción.
+
+**Tecnologías:** Python, FastAPI, Docker, Scikit-learn, Pandas
+
+---
+
 #### 🔬 [Mini Proyecto: Auditoría de Sucursales Multinacional](https://github.com/jorgedata01/MiniProyecto_AuditoriaSucursalesMultinacional)
 Comparación estadística robusta entre dos muestras independientes mediante pruebas de hipótesis. Implementa análisis con Test de Shapiro-Wilk, Prueba T de Student, T de Welch y tamaño del efecto con D de Cohen sobre datos de auditoría de sucursales multinacionales.
 
